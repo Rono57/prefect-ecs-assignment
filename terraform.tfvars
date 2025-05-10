@@ -1,0 +1,5 @@
+region              = "us-east-1"
+prefect_api_key     = "planetai_api"
+prefect_account_id  = "acf3a8bb-6398-4f94-8757-9f09d40494be"
+prefect_workspace_id = "416e59da-4ef0-47d1-8291-775ed866b65d"
+prefect_api_url     = "https://api.prefect.cloud/api"
